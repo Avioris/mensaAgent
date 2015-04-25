@@ -1,0 +1,9 @@
+Burger
+Hamburger
+Glasnudeln
+Cordon Bleu
+Cheeseburger
+Spare Rib
+Schnitzel
+Bratwurst
+Currywurst
