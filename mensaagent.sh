@@ -1,6 +1,6 @@
 #!/bin/bash
-
-BEEP=/usr/share/sounds/ubuntu/stereo/phone-incoming-call.ogg
+#insert a path for a sound file
+BEEP=/home/tj/Dokumente/mensaagent/nomnom.wav
 
 mealplan=$(curl --silent http://www.studentenwerk-berlin.de/mensen/speiseplan/fu2/01.html)
 

@@ -1,6 +1,6 @@
 Burger
 Hamburger
-Glasnudeln
+Glasnudel
 Cordon Bleu
 Cheeseburger
 Spare Rib
